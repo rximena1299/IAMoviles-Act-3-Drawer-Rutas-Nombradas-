@@ -152,7 +152,12 @@ Rutas nombradas
 Tema blanco y rosa estilo Apple Music.
 
 
-<img width="287" height="484" alt="image" src="https://github.com/user-attachments/assets/7ca0324a-26fa-4ab5-abab-281160edffc0" />
+<img width="284" height="488" alt="image" src="https://github.com/user-attachments/assets/4414b7cf-e867-4d46-885e-c1f566b11eb7" />
 <img width="288" height="489" alt="image" src="https://github.com/user-attachments/assets/4e1f975c-f809-4cb0-bbce-2d992fbe27e8" />
+<img width="289" height="488" alt="image" src="https://github.com/user-attachments/assets/456e993f-0dfc-4bd7-8345-cfb93cd32af2" />
+<img width="293" height="483" alt="image" src="https://github.com/user-attachments/assets/4b153e52-0977-4e4f-809f-129ad2b5aa84" />
+<img width="294" height="485" alt="image" src="https://github.com/user-attachments/assets/1d62b52c-0248-46d3-9794-a7ff8f61154e" />
+<img width="286" height="490" alt="image" src="https://github.com/user-attachments/assets/a5287a68-1c63-4dda-9b6b-ad1d9175fe2c" />
+
 
 
