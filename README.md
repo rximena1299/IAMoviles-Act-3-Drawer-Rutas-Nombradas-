@@ -150,3 +150,9 @@ Encabezado con información de empresa
 Rutas nombradas
 4 páginas con imágenes desde internet
 Tema blanco y rosa estilo Apple Music.
+
+
+<img width="287" height="484" alt="image" src="https://github.com/user-attachments/assets/7ca0324a-26fa-4ab5-abab-281160edffc0" />
+<img width="288" height="489" alt="image" src="https://github.com/user-attachments/assets/4e1f975c-f809-4cb0-bbce-2d992fbe27e8" />
+
+
