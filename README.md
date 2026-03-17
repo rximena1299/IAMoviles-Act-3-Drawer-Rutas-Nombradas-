@@ -151,9 +151,9 @@ Rutas nombradas
 4 páginas con imágenes desde internet
 Tema blanco y rosa estilo Apple Music.
 
+<img width="291" height="486" alt="image" src="https://github.com/user-attachments/assets/b5c26192-19de-4e42-9203-b0858d97a1ef" />
 
 <img width="284" height="488" alt="image" src="https://github.com/user-attachments/assets/4414b7cf-e867-4d46-885e-c1f566b11eb7" />
-<img width="288" height="489" alt="image" src="https://github.com/user-attachments/assets/4e1f975c-f809-4cb0-bbce-2d992fbe27e8" />
 <img width="289" height="488" alt="image" src="https://github.com/user-attachments/assets/456e993f-0dfc-4bd7-8345-cfb93cd32af2" />
 <img width="293" height="483" alt="image" src="https://github.com/user-attachments/assets/4b153e52-0977-4e4f-809f-129ad2b5aa84" />
 <img width="294" height="485" alt="image" src="https://github.com/user-attachments/assets/1d62b52c-0248-46d3-9794-a7ff8f61154e" />
